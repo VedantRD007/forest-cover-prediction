@@ -39,6 +39,11 @@ To train the model on your dataset, run:
 ```sh
 python forest_cover_infer.ipynb
 ```
+## 🎨 Running the Gradio App
+To launch the web interface for classification:
+```sh
+python forest_gr.py
+```
 
 
 ## 📊 Dependencies
